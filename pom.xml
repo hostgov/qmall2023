@@ -17,6 +17,7 @@
         <module>qmall2023-ware</module>
         <module>qmall2023-coupon</module>
         <module>qmall2023-member</module>
+        <module>qmall2023-admin</module>
     </modules>
 
     <properties>
